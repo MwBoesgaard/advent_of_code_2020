@@ -1,5 +1,4 @@
-use crate::solutions::day01;
-use crate::solutions::day02;
+use crate::solutions::*;
 
 mod solutions;
 
@@ -9,4 +8,7 @@ fn main() {
 
     day02::part_1();
     day02::part_2();
+
+    day03::part_1();
+    day03::part_2();
 }
