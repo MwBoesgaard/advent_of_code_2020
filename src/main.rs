@@ -14,4 +14,7 @@ fn main() {
 
     day04::part_1();
     day04::part_2();
+
+    day05::part_1();
+    day05::part_2();
 }
